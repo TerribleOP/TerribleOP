@@ -50,9 +50,10 @@
 
 <br>
 <hr>
-<picture><img src = "https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/handshake.gif" width = 50></picture>
+<picture><img src = "https://github.com/0xabdulkhalid/0xabdulkhalid/blob/main/assets/mdImages/handshake.gif" width = "50"></picture><b> Contact Me</b>
+<br><br>
 
    <a href="https://discord.gg/tdv7yFaf" target=_blank>![Discord](https://img.shields.io/badge/Discord-Hermann%20Göring%231405-%23ffffff?style=for-the-badge&logo=discord)</a>
-   <br>
+   <br><br>
    <a href="mailto:goring.discord@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
